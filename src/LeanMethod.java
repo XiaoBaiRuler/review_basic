@@ -16,8 +16,8 @@ public class LeanMethod {
         return -1;
     }
 
-    private float learn(float a){
-        return 0.1f;
+    private Test learn(float a){
+        return new Test();
     }
 
     private int learn(int... a){
