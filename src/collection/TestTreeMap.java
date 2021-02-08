@@ -1,7 +1,6 @@
-package Collection;
+package collection;
 
 import java.util.TreeMap;
-import java.util.TreeSet;
 
 /**
  * @Author xiaobai

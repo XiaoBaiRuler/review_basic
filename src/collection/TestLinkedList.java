@@ -1,4 +1,4 @@
-package Collection;
+package collection;
 
 /**
  * @Author xiaobai
